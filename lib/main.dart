@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Vazil App',
+      title: 'Vazil App1',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
